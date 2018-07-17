@@ -19,5 +19,4 @@ ActiveRecord::Schema.define(version: 1) do
     t.string "lead"
     t.boolean "in_theaters"
   end
-
 end
